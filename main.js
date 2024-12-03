@@ -56,13 +56,14 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     })
 
+
+
     // classname style added
     // hokageTextEl.className = "text-red-800 text-xl font-semibold";
-
     // classlist add
-    hokageTextEl.classList.add("text-red-800", "font-semibold", "text-3xl", "bg-gray-600")
+    // hokageTextEl.classList.add("text-red-800", "font-semibold", "text-3xl", "bg-gray-600")
 
     // classlist remove
-    hokageTextEl.classList.remove("bg-gray-600")
+    // hokageTextEl.classList.remove("bg-gray-600")
 
 })
